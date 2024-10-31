@@ -1,0 +1,277 @@
+# Copyright (C) 2024 wb-ocw
+# This file is distributed under the same license as the wb-ocw package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wb-ocw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-14 07:45+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: classes/admin.class.php:807
+msgid "业务咨询"
+msgstr ""
+
+#: classes/admin.class.php:808
+msgid "市场合作"
+msgstr ""
+
+#: classes/admin.class.php:809
+msgid "其他事宜"
+msgstr ""
+
+#: classes/admin.class.php:823
+msgid "您的工单我们已经收到，我们将会尽快跟您联系！"
+msgstr ""
+
+#: classes/admin.class.php:909
+msgctxt "浮标label"
+msgid "在线客服"
+msgstr ""
+
+#: classes/admin.class.php:912
+msgid "我们将24小时内回复。"
+msgstr ""
+
+#: classes/admin.class.php:913
+msgid "您好，有任何疑问请与我们联系！"
+msgstr ""
+
+#: classes/captcha.class.php:100
+msgid "验证码不能为空"
+msgstr ""
+
+#: classes/captcha.class.php:107
+msgid "验证码错误，请重新输入"
+msgstr ""
+
+#: classes/captcha.class.php:164
+msgid "reCAPTCHA验证失败，请稍后再试"
+msgstr ""
+
+#: classes/contact.class.php:324
+msgid "网友"
+msgstr ""
+
+#: classes/contact.class.php:460
+msgid "您的工单长时间未反馈信息，系统自动关闭此工单，如需继续联系，请重新发起工单。"
+msgstr ""
+
+#: classes/contact.class.php:490
+msgid "未登录访客"
+msgstr ""
+
+#: classes/front.class.php:38
+msgctxt "会员中心标题"
+msgid "我的咨询"
+msgstr ""
+
+#: classes/front.class.php:335
+msgid "需登录后才可留言。您尚未登录网站账户。"
+msgstr ""
+
+#: classes/front.class.php:341, classes/front.class.php:588
+msgid "请输入您的大名"
+msgstr ""
+
+#: classes/front.class.php:345, classes/front.class.php:592
+msgid "姓名长度不能超过100字符"
+msgstr ""
+
+#: classes/front.class.php:351
+msgid "请输入您的联系方式"
+msgstr ""
+
+#: classes/front.class.php:357, classes/front.class.php:608
+msgid "您要咨询的是?"
+msgstr ""
+
+#: classes/front.class.php:362
+msgid "咨询内容过长，可留下联系方式，我们联系您进一步沟通。"
+msgstr ""
+
+#: classes/front.class.php:369
+msgid "请输入验证码"
+msgstr ""
+
+#: classes/front.class.php:409, classes/front.class.php:681
+msgid "工单保存失败，请联系管理员。"
+msgstr ""
+
+#: classes/front.class.php:583
+msgid "工单未启用"
+msgstr ""
+
+#: classes/front.class.php:598
+msgid "请输入咨询主题"
+msgstr ""
+
+#: classes/front.class.php:602
+msgid "咨询主题长度不能超过200字符"
+msgstr ""
+
+#: classes/front.class.php:612
+msgid "咨询内容不能超过1000字符"
+msgstr ""
+
+#: classes/front.class.php:724
+msgctxt "js提示"
+msgid "微信号已复制"
+msgstr ""
+
+#: classes/front.class.php:725
+msgctxt "在线咨询提交后字段名"
+msgid "姓名："
+msgstr ""
+
+#: classes/front.class.php:726
+msgctxt "在线咨询提交后字段名"
+msgid "联系方式："
+msgstr ""
+
+#: classes/front.class.php:727
+msgctxt "在线咨询提交后字段名"
+msgid "咨询类型："
+msgstr ""
+
+#: classes/front.class.php:728
+msgctxt "在线咨询提交后字段名"
+msgid "咨询内容："
+msgstr ""
+
+#: classes/front.class.php:729
+msgctxt "表单提交提示"
+msgid "请输入正确格式的邮箱地址"
+msgstr ""
+
+#: classes/front.class.php:730
+msgctxt "表单提交提示"
+msgid "请输入正确格式的11位手机号"
+msgstr ""
+
+#: classes/front.class.php:731
+msgctxt "表单提交提示"
+msgid "咨询内容过长，可简单描述，我们联系您进一步沟通。"
+msgstr ""
+
+#: classes/front.class.php:732
+msgctxt "表单提交提示"
+msgid "智能验证不通过，若有疑问可联系站点管理员。"
+msgstr ""
+
+#: classes/front.class.php:733
+msgctxt "表单提交提示"
+msgid "智能验证异常，请联系站点管理员。"
+msgstr ""
+
+#: classes/image_captcha.php:3
+msgid "图片验证码"
+msgstr ""
+
+#: classes/mail.class.php:57
+msgctxt "邮件提醒, %s为工单类型"
+msgid "关于%s"
+msgstr ""
+
+#: classes/mail.class.php:59
+msgctxt "邮件提醒"
+msgid "收到%s的留言"
+msgstr ""
+
+#: classes/mail.class.php:63, inc/contact_form.php:47
+msgctxt "联系方式"
+msgid "邮箱"
+msgstr ""
+
+#: classes/mail.class.php:64, inc/contact_form.php:48
+msgctxt "联系方式"
+msgid "QQ"
+msgstr ""
+
+#: classes/mail.class.php:65, inc/contact_form.php:49
+msgctxt "联系方式"
+msgid "微信"
+msgstr ""
+
+#: classes/mail.class.php:66, inc/contact_form.php:50
+msgctxt "联系方式"
+msgid "手机"
+msgstr ""
+
+#: classes/mail.class.php:74
+msgctxt "邮件提醒"
+msgid "时间: "
+msgstr ""
+
+#: inc/contact_form.php:30
+msgctxt "表单字段名"
+msgid "姓名"
+msgstr ""
+
+#: inc/contact_form.php:57
+msgctxt "表单字段名"
+msgid "联系方式"
+msgstr ""
+
+#: inc/contact_form.php:61
+msgctxt "表单字段名"
+msgid "留言"
+msgstr ""
+
+#: inc/contact_form.php:69
+msgctxt "表单字段名"
+msgid "验证码"
+msgstr ""
+
+#: inc/contact_form.php:70
+msgctxt "表单字段名"
+msgid "点击更换验证码"
+msgstr ""
+
+#: inc/contact_form.php:77
+msgctxt "按钮"
+msgid "提交"
+msgstr ""
+
+#: inc/contact_form.php:78, inc/contact_form.php:22
+msgctxt "按钮"
+msgid "取消"
+msgstr ""
+
+#: inc/contact_form.php:15
+msgctxt "在线工单, 登录链接label"
+msgid "立即登录"
+msgstr ""
+
+#: inc/contact_form.php:19
+msgctxt "在线工单, 未登录时提示, %s 为登录链接"
+msgid "需登录后才可留言。<br>您尚未登录网站账户，%s。"
+msgstr ""
+
+#: inc/fold.tpl.php:13
+msgctxt "功能入口"
+msgid "我的订单"
+msgstr ""
+
+#: inc/fold.tpl.php:83
+msgid "点击复制微信号"
+msgstr ""
+
+#: inc/panel.tpl.php:164
+msgid "注：点击复制微信号并打开微信APP，添加好友后进行聊天。"
+msgstr ""
+
+#: inc/panel.tpl.php:210
+msgid "选择聊天工具："
+msgstr ""
+
+#: wbm/wbm.php:285
+msgctxt "会员中心菜单"
+msgid "退出"
+msgstr ""
